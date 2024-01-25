@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E1_223510_P", "Egzamin 1\E1_223510_P.csproj", "{DBF998D4-C72D-4A71-9F32-F780AD0E4CBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E1_223510_P - Sprawdzone i poprawione", "E1_223510_P - Sprawdzone i poprawione\E1_223510_P - Sprawdzone i poprawione.csproj", "{83BE56F2-09FD-4B2D-A2B3-7DA0EDDE91D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBF998D4-C72D-4A71-9F32-F780AD0E4CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBF998D4-C72D-4A71-9F32-F780AD0E4CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBF998D4-C72D-4A71-9F32-F780AD0E4CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBF998D4-C72D-4A71-9F32-F780AD0E4CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83BE56F2-09FD-4B2D-A2B3-7DA0EDDE91D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83BE56F2-09FD-4B2D-A2B3-7DA0EDDE91D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83BE56F2-09FD-4B2D-A2B3-7DA0EDDE91D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83BE56F2-09FD-4B2D-A2B3-7DA0EDDE91D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08F33755-3AAA-4771-8C60-CA0784AA00A5}
+	EndGlobalSection
+EndGlobal
