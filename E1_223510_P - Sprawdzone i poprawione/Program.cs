@@ -87,6 +87,9 @@ namespace PD
 
         static ushort P3(long dane)
         {
+            if (dane < 0)
+                dane *= -1;
+            
             ushort iloscSekwencji = 0;
 
             bool poprzedni1 = true;
@@ -105,7 +108,6 @@ namespace PD
 
                     poprzedni1 = false;
                 }
-
 
                 dane = dane >> 1; // Usuniecie sprawdzonego bitu;
             }
